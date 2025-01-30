@@ -1,5 +1,5 @@
 //A hardcoded program to get discount by initializing the discount
-public class GetDiscount{
+public class GetDiscount0{
    
      public static   double  getDiscount(double amount) {
     double discount = 0;

@@ -4,7 +4,7 @@
 //input amount>=1000&&amount<=5000----->5% discount
 //input amount <1000 ---->No discount
 import java.util.Scanner;
-public class GetDiscount2{
+public class GetDiscount1{
      public static   double  getDiscount(double amount) {
     double discount = 0;
     
