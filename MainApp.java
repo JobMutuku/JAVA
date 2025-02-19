@@ -62,6 +62,7 @@ public class MainApp{
         //displaying student details and grade
          student.displayDetails();
          System.out.println("Grade: " + grade);
+         
 scanner.close();
          
     }

@@ -1,3 +1,4 @@
+//java program -scanner class
 //Author : Job Mutuku : REG NO CT101/G/19347/23
 /*program to get discount taking input from the user*/
 //input amount>5000------> 1% discount
